@@ -29,7 +29,7 @@ Sinon lancer directement les tests : npx jest
 <img width="616" height="457" alt="image" src="https://github.com/user-attachments/assets/d365f549-b5b7-4aaf-a6a6-c76d29a41e3a" />
 
 
-Structure projet : 
+# Structure projet : 
 
 src : code source de l'application
 src/todo.ts : Classe TodoApp
