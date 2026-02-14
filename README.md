@@ -27,3 +27,16 @@ npm i --save-dev @types/mocha
 Sinon lancer directement les tests : npx jest
 
 <img width="616" height="457" alt="image" src="https://github.com/user-attachments/assets/d365f549-b5b7-4aaf-a6a6-c76d29a41e3a" />
+
+
+Structure projet : 
+
+src : code source de l'application
+src/todo.ts : Classe TodoApp
+test/ : Logique tests
+test/todo.test.ts : Tests
+
+.json : configuration
+
+README.md : Documentation
+TMA.md : Documentation maintenance future
