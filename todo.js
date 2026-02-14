@@ -32,7 +32,7 @@ var TodoApp = /** @class */ (function () {
 exports.default = TodoApp;
 var monApp = new TodoApp();
 monApp.add('Apprendre TypeScript');
-monApp.add('Faire les courses');
+monApp.add('Faire les devoirs');
 console.log('----début-------:');
 monApp.list();
 console.log('----marquer la tache 1 comme faite-------:');
