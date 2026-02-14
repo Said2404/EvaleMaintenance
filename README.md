@@ -12,7 +12,17 @@ npm install -g typescript ts-node
 npm install -D @types/node
 
 terminal : npx ts-node .ts
+Lancer l'application : ts-node todo.ts
 
-Si vous souhaitez compiler le code Typescript en Javascript : tsc todo.ts
 
+Tests : 
+
+npm install --save-dev jest ts-jest @types/jest
+npx ts-jest config:init
+
+Si besoin : 
+npm i --save-dev @types/jest
+npm i --save-dev @types/mocha
+
+Sinon lancer directement les tests : npx jest
 
